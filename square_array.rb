@@ -1,5 +1,5 @@
 def square_array(array)
-  squared_numbers = []
+  squared_array = []
   array.each do |number|
     new_numbers.push(number**2)
   end
